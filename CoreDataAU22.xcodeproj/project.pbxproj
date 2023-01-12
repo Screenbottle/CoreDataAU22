@@ -16,6 +16,7 @@
 		428B43CF296FFEEE00848C80 /* CoreDataAU22Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428B43CE296FFEEE00848C80 /* CoreDataAU22Tests.swift */; };
 		428B43D9296FFEEE00848C80 /* CoreDataAU22UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428B43D8296FFEEE00848C80 /* CoreDataAU22UITests.swift */; };
 		428B43DB296FFEEE00848C80 /* CoreDataAU22UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428B43DA296FFEEE00848C80 /* CoreDataAU22UITestsLaunchTests.swift */; };
+		428B43E8297008BB00848C80 /* ShoppingListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 428B43E7297008BB00848C80 /* ShoppingListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		428B43D4296FFEEE00848C80 /* CoreDataAU22UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreDataAU22UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		428B43D8296FFEEE00848C80 /* CoreDataAU22UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataAU22UITests.swift; sourceTree = "<group>"; };
 		428B43DA296FFEEE00848C80 /* CoreDataAU22UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataAU22UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		428B43E7297008BB00848C80 /* ShoppingListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				428B43C1296FFEED00848C80 /* Persistence.swift */,
 				428B43C3296FFEED00848C80 /* CoreDataAU22.xcdatamodeld */,
 				428B43BE296FFEED00848C80 /* Preview Content */,
+				428B43E7297008BB00848C80 /* ShoppingListView.swift */,
 			);
 			path = CoreDataAU22;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				428B43BB296FFEE700848C80 /* ContentView.swift in Sources */,
 				428B43C5296FFEED00848C80 /* CoreDataAU22.xcdatamodeld in Sources */,
 				428B43B9296FFEE700848C80 /* CoreDataAU22App.swift in Sources */,
+				428B43E8297008BB00848C80 /* ShoppingListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
